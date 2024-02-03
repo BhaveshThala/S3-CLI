@@ -2,14 +2,6 @@
 
 using S3RegexBasedDownloader.Helper;
 
-//access key = AKIAVHUTVHFSUVH2NAWC
-//secret key = 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
-// region = ap-south-2
-// bucket name = prescreening-storage-v2-bucket
-// folder name = Prescreening/PrescreeningStaging/
-// regex pattern = .*.20240118.*.txt
-// file output path = D:\LogsData\
-
 Start:
 Console.WriteLine("Enter Access Key: ");
 string? accessKey = Console.ReadLine()!.Trim();

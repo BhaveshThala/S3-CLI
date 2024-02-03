@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>S3RegexBasedDownloader</id>
+    <version>1.0.0</version>
+    <authors>S3RegexBasedDownloader</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.dll" target="tools\net6.0\any\S3RegexBasedDownloader.dll" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.deps.json" target="tools\net6.0\any\S3RegexBasedDownloader.deps.json" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.runtimeconfig.json" target="tools\net6.0\any\S3RegexBasedDownloader.runtimeconfig.json" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.pdb" target="tools\net6.0\any\S3RegexBasedDownloader.pdb" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\AWSSDK.Core.dll" target="tools\net6.0\any\AWSSDK.Core.dll" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\AWSSDK.S3.dll" target="tools\net6.0\any\AWSSDK.S3.dll" />
+    <file src="D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\Newtonsoft.Json.dll" target="tools\net6.0\any\Newtonsoft.Json.dll" />
+  </files>
+</package>

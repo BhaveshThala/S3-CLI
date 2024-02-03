@@ -1,0 +1,8 @@
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.exe
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.dll
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.deps.json
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.runtimeconfig.json
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\S3RegexBasedDownloader.pdb
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\AWSSDK.Core.dll
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\AWSSDK.S3.dll
+D:\VisualStudio\S3RegexBasedDownloader\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
